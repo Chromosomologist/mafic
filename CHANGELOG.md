@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/ooliver1/mafic/compare/v0.2.0...v0.2.1) (2023-01-27)
+
+
+### Documentation
+
+* add documentation ([#25](https://github.com/ooliver1/mafic/issues/25)) ([8f8a421](https://github.com/ooliver1/mafic/commit/8f8a421df1f2143f136de3196ff561fb371d5307))
+* export ignore lib check env var ([f2f04eb](https://github.com/ooliver1/mafic/commit/f2f04eb0e9a0646853f0d2b066bca2faa7076f05))
+* improve front page ([49d087d](https://github.com/ooliver1/mafic/commit/49d087d202ba682b9252ef7bb30e8a1981f74b29))
+
 ## [0.2.0](https://github.com/ooliver1/mafic/compare/v0.1.0...v0.2.0) (2022-11-09)
 
 
